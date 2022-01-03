@@ -1,6 +1,21 @@
-README
+# Simulation of Percolating Systems, using Matlabà
+
+Reason: Third year engineering physics baccalaureate capstone project
+Description:
+- Intends to simulate percolating systems.
+- Given a probability for each element of a specific lattice, what is the probability that there exists a percolating path through the system?
+- Tested different lattice (square, triangular, hexagonal, etc.) to study effect on percolating probability.
+- Implement recursive and clustering identifcation approaches to identify percolation paths.
+- Studied time and computational complexity of implemented algorithms.
+- Explanations and comments written in French.
+
+Languages / Tech: Matlab
 
 
+
+
+
+ADDITIONAL INFOS
 ******
 Project made long before diving into computer science.
 Fun project intended to simulate physics processes
