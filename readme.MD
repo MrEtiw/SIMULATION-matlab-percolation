@@ -1,6 +1,8 @@
 # Simulation of Percolating Systems, using Matlab
 
-**CONTEXT**: Third year physics engineering baccalaureate capstone project
+**CONTEXT**: 
+
+Third year physics engineering baccalaureate capstone project
 
 **DESCRIPTION**:
 - Intends to simulate percolating systems.
@@ -10,7 +12,8 @@
 - Studied time and computational complexity of implemented algorithms.
 - Explanations and comments written in French.
 
-**LANGUAGES / TECH**: Matlab
+**LANGUAGES / TECH**:
+- Matlab
 
 
 
