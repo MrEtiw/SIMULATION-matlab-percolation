@@ -1,6 +1,6 @@
 # Simulation of Percolating Systems, using Matlab
 
-**CONTEXT**: Third year engineering physics baccalaureate capstone project
+**CONTEXT**: Third year physics engineering baccalaureate capstone project
 
 **DESCRIPTION**:
 - Intends to simulate percolating systems.
