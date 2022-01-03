@@ -1,6 +1,7 @@
-# Simulation of Percolating Systems, using Matlabà
+# Simulation of Percolating Systems, using Matlab
 
 **CONTEXT**: Third year engineering physics baccalaureate capstone project
+
 **DESCRIPTION**:
 - Intends to simulate percolating systems.
 - Given a probability for each element of a specific lattice, what is the probability that there exists a percolating path through the system?
@@ -10,7 +11,6 @@
 - Explanations and comments written in French.
 
 **LANGUAGES / TECH**: Matlab
-
 
 
 
