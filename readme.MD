@@ -15,7 +15,7 @@
 
 
 
-**ADDITIONAL INFOS**
+**ADDITIONAL INFOS: **
 ******
 Project made long before diving into computer science.
 Fun project intended to simulate physics processes
